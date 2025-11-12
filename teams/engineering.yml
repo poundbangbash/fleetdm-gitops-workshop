@@ -24,7 +24,7 @@ controls:
       - path: ../lib/macos/configuration-profiles/passcode-settings-ddm.json
   macos_updates:
     deadline: "2025-11-30"
-    minimumu_version: "26.1"
+    minimum_version: "26.1"
   ipados_updates:
     deadline: "2025-12-31"
     minimum_version: "26.0"
